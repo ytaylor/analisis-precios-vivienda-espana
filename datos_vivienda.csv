@@ -1,0 +1,21 @@
+Ciudad,Provincia,Precio_m2,Num_Habitaciones,Superficie_m2,Año_Construccion,Tipo_Vivienda
+Madrid,Madrid,3500,3,85,2015,Piso
+Barcelona,Barcelona,4200,2,70,2018,Piso
+Valencia,Valencia,1800,3,95,2010,Piso
+Sevilla,Sevilla,1600,4,120,2005,Casa
+Bilbao,Vizcaya,2800,2,65,2019,Piso
+Zaragoza,Zaragoza,1400,3,90,2012,Piso
+Málaga,Málaga,2200,2,75,2016,Piso
+Murcia,Murcia,1300,3,100,2008,Casa
+Palma,Baleares,3800,3,80,2017,Piso
+Las Palmas,Canarias,2000,2,70,2014,Piso
+Alicante,Alicante,2100,3,85,2011,Piso
+Córdoba,Córdoba,1200,3,95,2006,Casa
+Valladolid,Valladolid,1500,2,75,2013,Piso
+Vigo,Pontevedra,1700,3,88,2015,Piso
+Gijón,Asturias,1800,2,68,2017,Piso
+Madrid,Madrid,3200,2,60,2020,Piso
+Barcelona,Barcelona,4500,3,100,2019,Piso
+Valencia,Valencia,1900,2,72,2018,Piso
+Sevilla,Sevilla,1700,3,110,2009,Casa
+Bilbao,Vizcaya,2900,3,78,2016,Piso
